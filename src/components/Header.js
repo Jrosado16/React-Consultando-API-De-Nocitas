@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-//recivimos el titulo en props
+//recibimos el titulo en props
 const Header = ({titulo}) => {
     return ( 
         <nav className="nav-wrapper light-blue darken-3">
