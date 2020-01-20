@@ -11,7 +11,7 @@ Para construir el proyecto y subirlo a produccion usamos el suguiente comando:
 
 ### Deployment
 
-Demo: https://vibrant-mahavira-23d795.netlify.com/
+Demo: https://buscador-de-noticias-react-api.netlify.com/
 
 #### API
 
